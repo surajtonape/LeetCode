@@ -7,12 +7,22 @@ LeetCode solutions in C++ with optimized and well-structured code.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/surajtonape/LeetCode/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/surajtonape/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/surajtonape/LeetCode/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/surajtonape/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/surajtonape/LeetCode/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/surajtonape/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/surajtonape/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
