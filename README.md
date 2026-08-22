@@ -6,12 +6,14 @@ LeetCode solutions in C++ with optimized and well-structured code.
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/surajtonape/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/surajtonape/LeetCode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajtonape/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/surajtonape/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/surajtonape/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/surajtonape/LeetCode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajtonape/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/surajtonape/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -28,4 +30,8 @@ LeetCode solutions in C++ with optimized and well-structured code.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajtonape/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/surajtonape/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
