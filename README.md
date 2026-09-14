@@ -6,6 +6,7 @@ LeetCode solutions in C++ with optimized and well-structured code.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/surajtonape/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/surajtonape/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/surajtonape/LeetCode/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/surajtonape/LeetCode/tree/master/0204-count-primes) |
@@ -56,4 +57,8 @@ LeetCode solutions in C++ with optimized and well-structured code.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/surajtonape/LeetCode/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/surajtonape/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
