@@ -37,6 +37,7 @@ LeetCode solutions in C++ with optimized and well-structured code.
 | ------- |
 | [0048-rotate-image](https://github.com/surajtonape/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/surajtonape/LeetCode/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/surajtonape/LeetCode/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -61,4 +62,16 @@ LeetCode solutions in C++ with optimized and well-structured code.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajtonape/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/surajtonape/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/surajtonape/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/surajtonape/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
