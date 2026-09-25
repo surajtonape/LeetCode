@@ -11,6 +11,7 @@ LeetCode solutions in C++ with optimized and well-structured code.
 | [0054-spiral-matrix](https://github.com/surajtonape/LeetCode/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/surajtonape/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajtonape/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/surajtonape/LeetCode/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/surajtonape/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -62,6 +63,7 @@ LeetCode solutions in C++ with optimized and well-structured code.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajtonape/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/surajtonape/LeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
